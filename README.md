@@ -21,7 +21,7 @@
   
   --主页添加自动播放按钮
   
-  --主页潮汕隐藏设置
+  --主页标签隐藏设置
 
 <其他设置> 
   
@@ -33,7 +33,7 @@
   
   --自动播放下一个视频
 
-  --重新匹配
+  --重新适配
   
 <关于模块> 
   
@@ -49,6 +49,10 @@
 3、理论上可以自动适配24以上的所有版本;
 ******************************************************
 
-![C1111](https://user-images.githubusercontent.com/1235777/219872578-54c27454-41d8-467d-ac31-1eca38888130.gif)
-![222](https://user-images.githubusercontent.com/1235777/219872585-0d68d6a6-8020-471f-aedb-cee060cd86ab.gif)
+![1](https://user-images.githubusercontent.com/1235777/229343875-1ce420e8-565d-418b-80d0-334e649be3e7.jpg)
+![2](https://user-images.githubusercontent.com/1235777/229343887-3dbe7c5c-940e-4394-ae33-cbba7e957ba6.jpg)
+![3](https://user-images.githubusercontent.com/1235777/229343893-61d75197-0cf2-4420-b5d9-7abd9ad2b70e.jpg)
+
+
+
 
