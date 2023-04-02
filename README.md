@@ -49,9 +49,8 @@
 3、理论上可以自动适配24以上的所有版本;
 ******************************************************
 
-![1](https://user-images.githubusercontent.com/1235777/229343875-1ce420e8-565d-418b-80d0-334e649be3e7.jpg)
-![2](https://user-images.githubusercontent.com/1235777/229343887-3dbe7c5c-940e-4394-ae33-cbba7e957ba6.jpg)
-![3](https://user-images.githubusercontent.com/1235777/229343893-61d75197-0cf2-4420-b5d9-7abd9ad2b70e.jpg)
+![2233](https://user-images.githubusercontent.com/1235777/229345158-549bf6fe-e2d5-42ae-8c24-127f50631309.png)
+
 
 
 
